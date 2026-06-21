@@ -7,6 +7,8 @@ Thank you for your suggestions!
 Please ensure your pull request adheres to the following guidelines:
 
 - Your pull request is for a project readme.
+- The focus of the description should be the readme rather than the project.
+- The description should be written by a person. Not AI.
 - Alphabetize your entry.
 - Search for previous suggestions before making a new one, as yours may be a duplicate.
 - Suggested READMEs should be visually appealing and unique.
